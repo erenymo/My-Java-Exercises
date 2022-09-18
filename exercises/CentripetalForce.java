@@ -1,5 +1,7 @@
 package exercises;
 
+// This program calculates the Centripetal Force.
+
 public class CentripetalForce {
     public static void main(String[] args) {
         double radius = 0.8;
